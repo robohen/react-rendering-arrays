@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 const learnersData = [
   {
     name: 'Cait Yomorta',
-    bio: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit...',
+    bio: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Natus placeat nostrum explicabo? Voluptatibus expedita saepe officia optio, commodi totam ratione laudantium ipsum porro molestias, quasi nulla minus vitae laboriosam corrupti Delectus inventore explicabo est odit incidunt rem a recusandae eum pariatur. Aperiam doloremque blanditiis harum voluptate animi fugit beatae asperiores quo, dignissimos sed illum veniam eum accusantium nulla quod voluptatum',
     scores: [
       { date: '2018-02-08', score: 77 },
       { date: '2018-04-22', score: 92 },
@@ -12,7 +12,7 @@ const learnersData = [
   },
   {
     name: 'Holly Baird',
-    bio: 'Eum molestiae explicabo deserunt, maiores quod eaque omnis tenetur vero ducimus, magnam autem!...',
+    bio: 'Eum molestiae explicabo deserunt, maiores quod eaque omnis tenetur vero ducimus, magnam autem! Quia facere quaerat eum repudiandae dolorum eligendi iure quae. Eos id possimus accusantium, earum animi modi hic.',
     scores: [
       { date: '2018-12-14', score: 88 },
       { date: '2019-01-09', score: 79 },
@@ -22,7 +22,7 @@ const learnersData = [
   },
   {
     name: 'Wes Mungia',
-    bio: 'Repudiandae veritatis recusandae quidem tenetur impedit, numquam incidunt enim, adipisci id cupiditate asperiores nam perferendis...',
+    bio: 'Repudiandae veritatis recusandae quidem tenetur impedit, numquam incidunt enim, adipisci id cupiditate asperiores nam perferendis. Facere odit laborum ipsum autem repellendus natus eius doloremque ullam perferendis. Enim repellendus ut veniam?',
     scores: [
       { date: '2018-10-11', score: 62 },
       { date: '2018-11-24', score: 74 },
